@@ -1,4 +1,4 @@
-# CHAT-APP-
+# CHAT-APPLICATION
 Chatting application using end to end encryption of messages  
 
 How to run:
